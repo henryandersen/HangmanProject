@@ -1,0 +1,46 @@
+body {
+    text-align: center;
+    vertical-align: top;
+    background-image: url(https://wallpaperscraft.com/image/black_background_pattern_light_texture_55291_1920x1200.jpg);
+    color: red;
+}
+button {
+    background-color: transparent;
+    color: red;
+}
+
+#difficulty{
+    background-color: transparent;
+    color: red;
+}
+#selectLetter{
+    background-color: transparent;
+    color: red;
+}
+#title{
+    font-size: 80px;
+    color: red;
+    padding-bottom: 10px;
+}
+#lives{
+    padding-top: 50px;
+    font-size: 30px;
+}
+#wordis{
+    font-size: 25px;
+}
+#word{
+    font-size: 25px;
+    padding-bottom: 30px;
+}
+#picture{
+
+}
+#graveyard2{
+    font-size: 65px;
+
+}
+#graveyard{
+    letter-spacing: 3px;
+    font-size: 30px;
+}
