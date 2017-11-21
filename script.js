@@ -67,7 +67,7 @@ function guessLetter() {
     document.getElementById("graveyard").innerHTML = wrongLetters;
 
 }
-
+//
 function picture() {
     if(lives ===7){
         return "Select a letter!";
